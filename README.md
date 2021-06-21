@@ -1,4 +1,4 @@
-# BSC Private Chain
+# Airdrop BEP-20 Tokens
 
 ## Overview
 
